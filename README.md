@@ -32,3 +32,10 @@ Working for telegram.
 <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=Alifstg&custom_title=Contribution+Graph&theme=xcode" />
 <img src="https://github-readme-stats.vercel.app/api?username=Alifstg&hide=prs,issues&show_icons=true&title_color=3E4405F&text_color=3E4405F&icon_color=3E4405F&bg_color=3E4405F" alt="SVR's github stats" />
 </p>
+
+<p align="center">
+🆂︎🆄︎🅿︎🅿︎🅾︎🆁︎🆃︎🅴︎🆁︎
+</p>
+<p align="center">
+<img width="50%" src="https://gpvc.arturio.dev/Alifstg" alt="Profile views" />
+</p>
