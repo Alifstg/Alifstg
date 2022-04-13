@@ -1,4 +1,4 @@
-#*****************ALIF MUHAMMED TG****************************#
+,,,*****************ALIF MUHAMMED TG****************************,,,
 
 
 I am Alif Muhammed. and I small moder & bot developer 
@@ -8,7 +8,7 @@ Working for telegram.
 🆁︎🅴︎🅰︎🅲︎🅷︎ 🅼︎🅴︎
 </p>
 
-<a href="https://t.me/PR0FESS0R_99"><img alt="Telegram" src="https://img.shields.io/badge/PR0FESS0R_99-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+<a href="https://t.me/Alifmuhammed_tg"><img alt="Telegram" src="https://img.shields.io/badge/ALIF TG-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 
 
 <p align="center">
